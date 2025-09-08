@@ -1,2 +1,4 @@
 # Jeu de MasterMind
-Projet personnel d'application développée React TypeScript pour jouer au Mastermind.
+Projet personnel inaboutie pour jouer au Mastermind.
+
+Développée en React TypeScript.
